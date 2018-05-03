@@ -14,6 +14,7 @@
 		5337F992209B54060046023C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5337F990209B54060046023C /* LaunchScreen.storyboard */; };
 		5337F995209B54060046023C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5337F994209B54060046023C /* main.m */; };
 		5337F99D209B545B0046023C /* newViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5337F99C209B545B0046023C /* newViewController.m */; };
+		5337F9A0209B5CDF0046023C /* newViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 5337F99F209B5CDF0046023C /* newViewController2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		5337F994209B54060046023C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5337F99B209B545B0046023C /* newViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = newViewController.h; sourceTree = "<group>"; };
 		5337F99C209B545B0046023C /* newViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newViewController.m; sourceTree = "<group>"; };
+		5337F99E209B5CDF0046023C /* newViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = newViewController2.h; sourceTree = "<group>"; };
+		5337F99F209B5CDF0046023C /* newViewController2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newViewController2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				5337F989209B54040046023C /* ViewController.m */,
 				5337F99B209B545B0046023C /* newViewController.h */,
 				5337F99C209B545B0046023C /* newViewController.m */,
+				5337F99E209B5CDF0046023C /* newViewController2.h */,
+				5337F99F209B5CDF0046023C /* newViewController2.m */,
 				5337F98B209B54040046023C /* Main.storyboard */,
 				5337F98E209B54060046023C /* Assets.xcassets */,
 				5337F990209B54060046023C /* LaunchScreen.storyboard */,
@@ -146,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5337F9A0209B5CDF0046023C /* newViewController2.m in Sources */,
 				5337F98A209B54040046023C /* ViewController.m in Sources */,
 				5337F995209B54060046023C /* main.m in Sources */,
 				5337F987209B54040046023C /* AppDelegate.m in Sources */,
